@@ -1,0 +1,4 @@
+name: ReloadWarning
+main: com.mydeblob.warning.ReloadWarning
+version: 1.0
+author: mydeblob

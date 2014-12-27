@@ -1,0 +1,8 @@
+# This is the amount of time in seconds for the countdown on a reload
+reload-time: 10
+
+# This is the amount of time in seconds for the countdown on a restart
+restart-time: 20
+
+# This is the amount of time in seconds for the countdown on a stop
+stop-time: 20
